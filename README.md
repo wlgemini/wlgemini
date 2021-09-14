@@ -1,8 +1,8 @@
 #### 🔨
-- Bits/Codable/@propertyWrapper
+- ProtobufCodable
 - DI/@propertyWrapper/@resultBuilder
 - Todoy
-- Wallpapper Engine for macOS
+- Wallpapper
 - DockLook
 
 #### 📝
