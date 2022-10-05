@@ -5,8 +5,9 @@
 - Todoy
 - Wallpapper
 - DockLook
-- CRDT
+- Windows like layout
 
 #### 📝
 - Async/Await
+- CRDT
 
