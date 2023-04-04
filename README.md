@@ -10,3 +10,8 @@
 - Async/Await
 - CRDT
 
+#### 💡
+
+- N: Note
+- P: Proj
+- NP: Note & Proj
