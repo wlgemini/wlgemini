@@ -1,10 +1,9 @@
 #### 🔨
 
-- ProtobufCodable: try update for attribute `some`
+- Protobuf macro
 - State machine/coroutine/@dynamicMemberLookup/callAsFunction/@propertyWrapper
 - DI/@propertyWrapper/@resultBuilder
 - Todoy
-- Windows like layout
 - OpenAPI x @resultBuilder: structed API definition.
 
 #### 📝
