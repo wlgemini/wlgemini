@@ -1,15 +1,9 @@
 #### 🔨
 
-- Protobuf macro
 - State machine/coroutine/@dynamicMemberLookup/callAsFunction/@propertyWrapper
 - DI/@propertyWrapper/@resultBuilder
-- Todoy
-- OpenAPI x @resultBuilder: structed API definition.
 
-#### 📝
 
-- Async/Await
-- CRDT
 
 #### 💡
 
