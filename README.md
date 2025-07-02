@@ -5,7 +5,7 @@ GPU Programming
 - DI/@propertyWrapper/@resultBuilder
 
 # 💡
-Repo Type:
+Repo type:
 - N: Note
 - P: Proj
 - NP: Note & Proj
